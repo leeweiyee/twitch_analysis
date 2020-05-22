@@ -10,6 +10,7 @@ jupyter = "*"
 pandas = "*"
 psycopg2-binary = "*"
 sqlalchemy = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"

@@ -1,5 +1,5 @@
 CREATE TABLE stream (
-    time TEXT,
+    time TIMESTAMP,
     device_id TEXT,
     login TEXT,
     channel	TEXT,
